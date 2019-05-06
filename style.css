@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+ }
+ .map {
+     float: left;
+     width: 60%;
+ }
+ .data {
+     float: right;
+     width: 35%;
+ }
